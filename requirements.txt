@@ -1,0 +1,10 @@
+pycocotools
+opencv-python
+pillow
+tensorboard
+termcolor
+matplotlib
+scipy
+mypy
+wandb
+flake8
