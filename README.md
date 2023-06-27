@@ -3,7 +3,8 @@
 By Tomoya Takahashi, Shingo Yashima, Kohta Ishikawa, Ikuro Sato, Rio Yokota.
 <!-- By [Tomoya Takahashi]()\*, [Shingo Yashima]()\*, [Kohta Ishikawa](), [Ikuro Sato](), [Rio Yokota](). -->
 
-This repo is an official implementation of ["Pixel-level Contrastive Learning of Driving Videos with Optical Flow"](./demo/takahashi_cvpr2023_workshop_e2ead.pdf) on PyTorch.
+<!-- This repo is an official implementation of ["Pixel-level Contrastive Learning of Driving Videos with Optical Flow"](./demo/takahashi_cvpr2023_workshop_e2ead.pdf) on PyTorch. -->
+This repo is an official implementation of ["Pixel-level Contrastive Learning of Driving Videos with Optical Flow"](https://openaccess.thecvf.com/content/CVPR2023W/E2EAD/papers/Takahashi_Pixel-Level_Contrastive_Learning_of_Driving_Videos_With_Optical_Flow_CVPRW_2023_paper.pdf) on PyTorch.
 <!-- This repo is an official implementation of ["Pixel-level Contrastive Learning of Driving Videos with Optical Flow"]() on PyTorch. -->
 
 
@@ -29,12 +30,22 @@ which allows us to exceed the performance of the original PixPro method.
 
 ## Citation
 
-```
+<!-- ```
 @article{tomo2023pixprowtopticalflow,
   title={Pixel-level Contrastive Learning of Driving Videos with Optical Flow},
   author={Tomoya Takahashi, Shingo Yashima, Kohta Ishikawa, Ikuro Sato, Rio Yokota},
   conference={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshop},
   year={2023}
+}
+``` -->
+```
+@InProceedings{Takahashi_2023_CVPR,
+    author    = {Takahashi, Tomoya and Yashima, Shingo and Ishikawa, Kohta and Sato, Ikuro and Yokota, Rio},
+    title     = {Pixel-Level Contrastive Learning of Driving Videos With Optical Flow},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {3179-3186}
 }
 ```
 
